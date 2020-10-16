@@ -1,0 +1,12 @@
+.tombol {
+  background-color: #2388ed;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
